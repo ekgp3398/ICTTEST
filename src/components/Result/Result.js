@@ -1,6 +1,3 @@
-import { useEffect, useState } from 'react';
-import { Link } from 'react-router-dom';
-import { faEarlybirds } from '@fortawesome/free-brands-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {useNavigate, useParams} from "react-router-dom";
 import { faCopy, faArrowAltCircleRight } from '@fortawesome/free-solid-svg-icons';
