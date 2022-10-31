@@ -1,0 +1,16 @@
+ul {
+    list-style: none;
+    padding-left: 0px;
+}
+
+.club_name {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.club_act {
+    
+}
+.result_btn_box {
+    margin-top: 30px;
+}
