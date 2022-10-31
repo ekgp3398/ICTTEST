@@ -9,7 +9,6 @@ const Option = () => {
     const TOTAL_SLIDES = 7;
     const navigate = useNavigate();
     const [club, setClub] = useState([]);
-    const [map, setMap] = useState({});
 
     const Answer = (props) => {
         setClub(club + Questions[num].answers[props].type);
@@ -19,6 +18,7 @@ const Option = () => {
     };
 
     const clubChecker = () => {
+        let map = {};
         let result;
         for(let i = 0; i < club.length; i++){
             if(club[i] in map){
