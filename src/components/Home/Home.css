@@ -1,4 +1,5 @@
 .middle h2 {
+	margin-top: 15vh;
 	padding: 1rem;
 	font-size: 1.5rem;
 	text-align: center;
@@ -13,18 +14,20 @@
 	flex-direction: column;
     justify-content:center; 
     align-items : center;
-    margin-top: 15vh;
+	font-family: "S-CoreDream-3Light";
 }
 .container {
     display: flex;
 	margin: 0 auto;
-	width: 90vw;
+	width: 768px;
 	height: 100vh;
+	border-radius: 12px;
 }
 
 button {
 	margin-bottom: 1rem;
-	width: 45vw;
+	margin-top: 10px;
+	width: 20vw;
 	height: 3rem;
 	display: flex;
 	justify-content: center;
@@ -32,6 +35,7 @@ button {
 	border-radius: 6px;
 	background-color: #ed6174;
 	color: #fff;
+	font-family: "S-CoreDream-3Light";
 }
 
 button:active {
@@ -42,9 +46,8 @@ button:active {
 	border: none;
 }
 
-.middle {
-	height: 25vh;
-    margin: 0 0 10vh;
+.club_icon {
+	width: 100px;
 }
 
 .icon {
@@ -55,7 +58,7 @@ button:active {
 	font-weight: bolder;
 }
 
-@media (min-width: 768px) {
+@media (max-width: 768px) {
 	.wrapper {
         display: inline-flex;
 		background-color: #e8e7e6;
@@ -63,10 +66,8 @@ button:active {
 	.container {
 		width: 768px;
 		background-color: #fff;
-		width: 768px;
 		box-sizing: border-box;
 		background: white;
-		border-radius: 20px;
 		border-radius: 12px;
 	}
 	.logo {
@@ -74,6 +75,6 @@ button:active {
 	}
 
 	button {
-		width: 20vw;
+		width: 40vw;
 	}
 }

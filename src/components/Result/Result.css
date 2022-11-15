@@ -3,14 +3,23 @@ ul {
     padding-left: 0px;
 }
 
+.container {
+    height: 100vh;
+}
+
 .club_name {
     font-size: 20px;
     margin-bottom: 10px;
 }
 
 .club_act {
-    
+    color: rgb(33, 94, 200)
+}
+
+.result_type {
+    margin-top: 55px;
 }
 .result_btn_box {
     margin-top: 30px;
+    margin-bottom: 30px;
 }

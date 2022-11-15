@@ -2,12 +2,14 @@
 	flex-direction: column;
 	align-items: center;
 	margin: 0 auto;
-	width: 90vw;
+	width: 768px;
 	height: 100vh;
+    font-family: "S-CoreDream-3Light";
 }
 
+
 .content {
-    margin-top: 15vh;
+    margin-top: 10vh;
     height: 25vh;
     align-items: center;
 }
@@ -52,8 +54,8 @@ button {
 	align-items: center;
 	margin: 0 auto;
 	margin-top: 20px;
-    width: 90vw;
-	height: 100vh;
+    
+	/* height: 100vh; */
 }
 
 .answer_btn {
@@ -73,23 +75,41 @@ button {
     font-weight: 600;
 }
 
+.loading__container {
+    display: flex;
+    width: 50%;
+    margin: 0 auto;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 40vh;
+}
+
+.loading__container h2 {
+    padding: 2rem;
+}
+.loading {
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 50%;
+    border: 1px solid #ed6174;
+    border-top: 1px solid white;
+    animation: spin 2s linear infinite;
+}
+
 .answer_btn:active {
     color: #fff;
     background-color: #ed6174;
     border: none;
 } 
 
-@media (min-width: 768px) {
+@media (max-width: 768px) {
     .body_container {
         background-color: #fff;
-    }
-    .top {
-        width: 768px;
-        margin: 0 auto;
     }
 
     .answer_container {
         width: 25%;
+        margin-top: 40px;
     }
 
     .counter {
@@ -100,11 +120,20 @@ button {
         display: flex;
         flex-direction: column;
         align-items: center;
+        font-size: 0.8rem;
     }
 
     .answer_btn:hover {
         color: #fff;
         background-color: #ed6174;
+    }
+    .loading {
+        width: 3rem;
+        height: 3rem;
+    }
+
+    .ticket {
+        width: 30rem;
     }
 }
 
