@@ -43,12 +43,12 @@
 		"question": "가장 관심가는 직무는 무엇인가요?",
 		"answers": [
 			{
-				"type": "A",
-				"content": "웹/앱 개발자, 네트워크/보안/서버/DBA"
-			},
-            {
 				"type": "B",
 				"content": "게임 개발자, AI/멀티미디어 전문가"
+			},
+			{
+				"type": "A",
+				"content": "웹/앱 개발자, 네트워크/보안/서버/DBA"
 			},
             {
                 "type": "C",
@@ -62,17 +62,17 @@
 		"question": "가장 관심가는 회사는 어디인가요?",
 		"answers": [
 			{
+                "type": "C",
+                "content": "삼성전자, LG디스플레이, SK하이닉스"
+            },
+			{
 				"type": "A",
 				"content": "네이버, 카카오, 배달의 민족"
 			},
 			{
 				"type": "B",
 				"content": "넷마블, 넥슨, NC Soft"
-			},
-            {
-                "type": "C",
-                "content": "삼성전자, LG디스플레이, SK하이닉스"
-            }
+			}
 		]
 	},
 	{
@@ -84,14 +84,14 @@
 				"type": "A",
 				"content": "학교 알람 메세지를 한번에 모아놓은 앱"
 			},
-			{
-				"type": "B",
-				"content": "학교를 배경으로 한 좀비 게임을 체험해볼 수 있는 VR"
-			},
             {
                 "type": "C",
                 "content": "학교 가로등 자동 제어 시스템"
-            }
+            },
+			{
+				"type": "B",
+				"content": "학교를 배경으로 한 좀비 게임을 체험해볼 수 있는 VR"
+			}
 		]
 	},
 	{
@@ -100,12 +100,12 @@
 		"question": "가장 관심가는 강의는?",
 		"answers": [
 			{
-				"type": "A",
-				"content": "알고리즘"
-			},
-			{
 				"type": "B",
 				"content": "게임엔진기초"
+			},
+			{
+				"type": "A",
+				"content": "알고리즘"
 			},
             {
                 "type": "C",
@@ -119,17 +119,17 @@
 		"question": "가장 관심가는 분야는?",
 		"answers": [
 			{
-				"type": "A",
-				"content": "소프트웨어, 빅데이터, 정보보호"
-			},
+                "type": "C",
+                "content": "반도체, 센서, IoT"
+            },
 			{
 				"type": "B",
 				"content": "게임, AI, 멀티미디어"
 			},
-            {
-                "type": "C",
-                "content": "반도체, 센서, IoT"
-            }
+			{
+				"type": "A",
+				"content": "소프트웨어, 빅데이터, 정보보호"
+			}
 		]
 	}
 ]
