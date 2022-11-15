@@ -16,6 +16,7 @@
     align-items : center;
 	font-family: "S-CoreDream-3Light";
 }
+
 .container {
     display: flex;
 	margin: 0 auto;
@@ -59,17 +60,6 @@ button:active {
 }
 
 @media (max-width: 768px) {
-	.wrapper {
-        display: inline-flex;
-		background-color: #e8e7e6;
-	}
-	.container {
-		width: 768px;
-		background-color: #fff;
-		box-sizing: border-box;
-		background: white;
-		border-radius: 12px;
-	}
 	.logo {
 		width: 18vw;
 	}

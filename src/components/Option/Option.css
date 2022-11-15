@@ -7,7 +7,6 @@
     font-family: "S-CoreDream-3Light";
 }
 
-
 .content {
     margin-top: 10vh;
     height: 25vh;
@@ -106,7 +105,6 @@ button {
     .body_container {
         background-color: #fff;
     }
-
     .answer_container {
         width: 25%;
         margin-top: 40px;
