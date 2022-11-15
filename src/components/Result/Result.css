@@ -23,3 +23,9 @@ ul {
     margin-top: 30px;
     margin-bottom: 30px;
 }
+
+@media (max-width: 768px) {
+	.result_wrapper {
+		width: 90vw;
+	}
+}
