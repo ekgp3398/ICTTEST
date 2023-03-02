@@ -12,10 +12,10 @@
 3. 각 동아리의 특성 키워드를 확인할 수 있다.
 
 >실행화면
-![image](https://user-images.githubusercontent.com/59834382/222373687-bcdf923c-9cf4-4a86-9cb1-01b0db9939e3.png)
-![image](https://user-images.githubusercontent.com/59834382/222373732-742e2f56-0667-40af-9bd5-db682ae86549.png)
-![image](https://user-images.githubusercontent.com/59834382/222373810-2eff1cbb-b295-447f-ae8b-09acc0fad3c1.png)
-![image](https://user-images.githubusercontent.com/59834382/222373897-9922beda-90d0-4519-b1ad-332fa6162d17.png)
+ ![image](https://user-images.githubusercontent.com/59834382/222373687-bcdf923c-9cf4-4a86-9cb1-01b0db9939e3.png)
+ ![image](https://user-images.githubusercontent.com/59834382/222373732-742e2f56-0667-40af-9bd5-db682ae86549.png)
+ ![image](https://user-images.githubusercontent.com/59834382/222373810-2eff1cbb-b295-447f-ae8b-09acc0fad3c1.png)
+ ![image](https://user-images.githubusercontent.com/59834382/222373897-9922beda-90d0-4519-b1ad-332fa6162d17.png)
 * 결과에 노출된 키워드는 각 동아리에서 제출한 동아리의 대표 특성을 기반으로 하였다.
 
 >테스트 하러가기
