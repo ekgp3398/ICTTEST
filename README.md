@@ -10,8 +10,6 @@
 1. 3개의 선택지 중 하나의 선택지를 고르게 된다.
 2. 총 7단계의 선택을 하게되면 사용자의 선택에 따른 전공과 관련된 동아리를 추천 받는다.
 3. 각 동아리의 특성 키워드를 확인할 수 있다.
-
->실행화면
  ![image](https://user-images.githubusercontent.com/59834382/222373687-bcdf923c-9cf4-4a86-9cb1-01b0db9939e3.png)
  ![image](https://user-images.githubusercontent.com/59834382/222373732-742e2f56-0667-40af-9bd5-db682ae86549.png)
  ![image](https://user-images.githubusercontent.com/59834382/222373810-2eff1cbb-b295-447f-ae8b-09acc0fad3c1.png)
