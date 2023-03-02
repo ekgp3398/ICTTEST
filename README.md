@@ -17,4 +17,4 @@
 * 결과에 노출된 키워드는 각 동아리에서 제출한 동아리의 대표 특성을 기반으로 하였다.
 
 >테스트 하러가기
-https://remarkable-meringue-957357.netlify.app
+ https://statuesque-dragon-82f07a.netlify.app/
